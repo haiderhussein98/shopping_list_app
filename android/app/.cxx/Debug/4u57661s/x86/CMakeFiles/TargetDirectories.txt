@@ -1,0 +1,2 @@
+C:/Users/lenovo/Desktop/SHOPING LIST/shoping_list/android/app/.cxx/Debug/4u57661s/x86/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Desktop/SHOPING LIST/shoping_list/android/app/.cxx/Debug/4u57661s/x86/CMakeFiles/rebuild_cache.dir
